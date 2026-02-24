@@ -1,5 +1,4 @@
 # PROJECT CODE SUBMISSION
-# Names: Javeria Malik, Ahmed Bilal, Shehzadi Mahum Agha
 #FULL RUN TIME - APPROXIMATELY 2-3 MINUTES
 
 #importing the df
@@ -323,5 +322,6 @@ output$assessed_value <- as.numeric(output$assessed_value)
 
 summary_stats <- summary(output$assessed_value)
 print(summary_stats)
+
 
 
