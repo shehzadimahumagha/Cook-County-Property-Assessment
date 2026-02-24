@@ -89,6 +89,3 @@ install.packages(c("caret", "dplyr", "glmnet", "MASS", "randomForest", "xgboost"
 
 ---
 
-## License
-
-This project was submitted as academic coursework for FIN 550. Please do not reproduce without permission.
